@@ -9,15 +9,15 @@ __Output:__ extrinsic shock graph (`.esf`)
 
 ## Structure of Shock computation
 
-__[ishock computation](https://github.com/wenhanshi/dbsk2d-ishock-computation):__  
+__[ishock computation](https://github.com/wenhanshi/lemsvxl-shock-computation/tree/master/dbsk2d-ishock-computation):__  
 `.png`/`.jpg` + `.cem`/`.cemv` --> `.isf`/`.osf`  
 It's a stand alone package for generating __intrinsic shock graph__ from __image contours__.
 
-__[xshock computation](https://github.com/wenhanshi/dbsk2d-xshock-computation):__  
+__[xshock computation](https://github.com/wenhanshi/lemsvxl-shock-computation/tree/master/dbsk2d-xshock-computation):__  
 `.png`/`.jpg` + `.cem`/`.cemv` --> `.esf`  
 It's a stand alone package for generating __extrinsic shock graph__ from __image contours__.
 
-__[osf_to_esf](https://github.com/wenhanshi/osf-to-esf) (we are here!):__  
+__[osf_to_esf](https://github.com/wenhanshi/lemsvxl-shock-computation/tree/master/osf-to-esf) (we are here!):__  
 `.osf` --> `.esf`  
 It's a stand alone package for fastly generating __extrinsic shock graph__ from __ishock file__.
 
