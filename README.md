@@ -1,11 +1,11 @@
 # lemsvxl-shock-computation
 
-The shock computation packages are designed for dealing with the streamline of generating Intrinsic Shock Graph and Extrinsic Shock Graph
-from the image and its contours.
+The shock computation packages are built for dealing with the streamline of generating Intrinsic Shock Graph and Extrinsic Shock Graph
+from the source image and its contours.
 
 ## Streamline
 
-[streamline](https://github.com/wenhanshi/markdown-img-link/blob/master/two%20pipelines.png)
+![streamline](https://github.com/wenhanshi/markdown-img-link/blob/master/two%20pipelines.png)
 
 ## Structure of Shock Computation Packages
 
